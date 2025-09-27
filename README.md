@@ -11,5 +11,5 @@
 | 4 | 02 | 02 | Widget Flexible dan Expanded | [Laporan](https://drive.google.com/file/d/1R6edyx7TjrlNtmm04Dp5un8cjTaQ03O6/view?usp=sharing) | [Repo](https://github.com/ZakariaNasrul/Mobile_Modul4.git) |
 | 5 | 03 | 03 | Widget SizedBox, Spacer, dan Card | [Laporan](https://drive.google.com/file/d/1TTmXvsUdTl59HKVUvGBzGEaX4FGTvdgP/view?usp=sharing) | [Repo](https://github.com/ZakariaNasrul/Mobile_Modul5.git) |
 | 6 | 03 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Laporan](https://drive.google.com/file/d/1_YAdyDDhMRNq982DxgJ6y9lJPNvgG9vC/view?usp=sharing) | [Repo](https://github.com/ZakariaNasrul/Mobile_Modul6.git) |
-| 7 | 04 | 04 |  | [Laporan]() | [Repo]() |
-| 8 | 04 | 04 |  | [Laporan]() | [Repo]() |
+| 7 | 04 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan NamedRoute | [Laporan]() | [Repo]() |
+| 8 | 04 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan NamedRoute | [Laporan]() | [Repo]() |
