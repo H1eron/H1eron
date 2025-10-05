@@ -3,7 +3,7 @@
 
 💻Saat ini saya sedang belajar Pemrograman Mobile:
 
-| No  | Minggu ke  | Praktikum ke  | Topik  | Laporan | Repo |
+| No  | Minggu | Praktikum | Topik | Laporan | Repo |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 | 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 1](https://drive.google.com/file/d/1fLLLMwQl-junocGoFtg_oUuMou5XUJtu/view?usp=sharing) | [Repo](https://github.com/ZakariaNasrul/Mobile_Modul1.git) |
 | 2 | 01 | 01 | Widget Row dan Column | [Modul 2](https://drive.google.com/file/d/1qqquBt8neV0C3Vb9OI1NwT26Z54PnTMG/view?usp=sharing) | [Repo](https://github.com/ZakariaNasrul/Mobile_Modul2.git) |
