@@ -17,4 +17,4 @@
 | 10 | 06 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/1XdHAiV9LcO7ul6e-JhdD3xZgKq6KT55i/view?usp=sharing) | [Repo](https://github.com/H1eron/Mobile_Modul10.git) |
 | 11 | 07 | 07 | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/1tSUkO6zOCO86wH1Fk9lYS_xx1_55zM6X/view?usp=sharing) | [Repo](https://github.com/H1eron/Mobile_Modul11.git) |
 | 12 | 08 | 08 | Ujian Tengah Semester | [Laporan](https://drive.google.com/file/d/1c3IMxY933X5Q8oNbbPG55MvoWRq65Hgt/view?usp=sharing) | [Repo](https://github.com/H1eron/ChefMate.git) |
-| 13 | 09 | 09 | Akses Lokasi dengan GPS di Flutter | [Modul 12]() | [Repo](https://github.com/H1eron/Mobile_Modul12.git) |
+| 13 | 09 | 09 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://drive.google.com/file/d/1U4t2mSDuC_mrUoXLB2Xd-VvTLWOlG2RD/view?usp=sharing) | [Repo](https://github.com/H1eron/Mobile_Modul12.git) |
