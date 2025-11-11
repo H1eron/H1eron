@@ -1,4 +1,4 @@
-#### Hi 👋, I'm ZakariaNasrul
+#### Hi 👋, I'm Zakaria Nasrul Jabbar
 ##### Saya Mahasiswa Universitas Islam Negeri Maulana Malik Ibrahim Malang
 
 💻Saat ini saya sedang belajar Pemrograman Mobile:
