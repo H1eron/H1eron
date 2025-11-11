@@ -1,5 +1,5 @@
 #### Hi 👋, I'm Zakaria Nasrul Jabbar
-##### Saya Mahasiswa Universitas Islam Negeri Maulana Malik Ibrahim Malang
+##### Saya Mahasiswa Teknik Informatika
 
 💻Saat ini saya sedang belajar Pemrograman Mobile:
 
