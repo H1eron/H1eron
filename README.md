@@ -18,4 +18,4 @@
 | 11 | 07 | 15-10-25 | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/1tSUkO6zOCO86wH1Fk9lYS_xx1_55zM6X/view?usp=sharing) | [Repo](https://github.com/H1eron/Mobile_Modul11.git) |
 | 12 | 08 | 22-10-25 | Ujian Tengah Semester | [Laporan](https://drive.google.com/file/d/1c3IMxY933X5Q8oNbbPG55MvoWRq65Hgt/view?usp=sharing) | [Repo](https://github.com/H1eron/ChefMate.git) |
 | 13 | 09 | 29-10-25 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://drive.google.com/file/d/1U4t2mSDuC_mrUoXLB2Xd-VvTLWOlG2RD/view?usp=sharing) | [Repo](https://github.com/H1eron/Mobile_Modul12.git) |
-| 14 | 29 | 19-11-25 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13]() | [Repo](https://github.com/H1eron/Mobile_Modul13.git) |
+| 14 | 10 | 19-11-25 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13]() | [Repo](https://github.com/H1eron/Mobile_Modul13.git) |
